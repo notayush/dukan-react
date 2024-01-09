@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dukan-react/static/css/main.4da62354.css",
+    "main.js": "/dukan-react/static/js/main.21a4874b.js",
+    "index.html": "/dukan-react/index.html",
+    "main.4da62354.css.map": "/dukan-react/static/css/main.4da62354.css.map",
+    "main.21a4874b.js.map": "/dukan-react/static/js/main.21a4874b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da62354.css",
+    "static/js/main.21a4874b.js"
+  ]
+}
